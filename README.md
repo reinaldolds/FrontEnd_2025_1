@@ -9,3 +9,7 @@ usando o vite que é uma ferramenta muito eficaz na proudução de aplicações 
   + vite
   + react web
   + vscode 
+
+![Texto alternativo](https://github.com/reinaldolds/FrontEnd_Ex01/blob/main/aula1/img/readme/aulaFrontend_exP401.png)
+
+![Texto alternativo](https://github.com/reinaldolds/FrontEnd_Ex01/blob/main/aula1/img/readme/aulaFrontend_exP4012.png)
