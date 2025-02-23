@@ -7,4 +7,4 @@ const Multiplicacao = (props) => {
     )
   }
   
-  export default Multiplicacao
+  export default Multiplicacao;
