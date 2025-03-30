@@ -1,6 +1,7 @@
 import Adicao from "./components/Adicao"
 import Divisao from "./components/Divisao"
 import Multiplicacao from "./components/Multiplicacao"
+import PrecisoEstudar from "./components/PrecisoEstudar"
 import Subtracao from "./components/Subtracao"
 import "./styles/App.css"
 
@@ -16,6 +17,7 @@ const App = () => {
       <br />
       <Multiplicacao num1={7} num2={2}/>
       <br />
+      <PrecisoEstudar nomeDaTecnologia={"React Web"}/>
     </div>
   )
 }
