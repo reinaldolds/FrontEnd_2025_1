@@ -3,6 +3,7 @@ import MeuComponente from './components/MeuComponente'
 import RenderizandoComFuncoes from './components/RenderizandoComFuncoes'
 import TrabalhandoComImagens from './components/TrabalhandoComImagens'
 import HookContador from './components/HookContador'
+import HookMegaSena from './components/HookMegaSena'
 
 const App = () => {
   return (
@@ -16,6 +17,8 @@ const App = () => {
       <TrabalhandoComImagens/>
       <br /><br />
       <HookContador/>
+      <br /><br />
+      <HookMegaSena/>
     </div>
   )
 }
